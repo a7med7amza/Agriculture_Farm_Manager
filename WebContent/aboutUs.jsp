@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>About Us</title>
+<title>About us</title>
 <link href="css/calendar.css" rel="stylesheet" type="text/css" media="screen" />
 <script src="code_js/calendar.js" type="text/javascript"></script>
 <link href="css/styles.css" rel="stylesheet" type="text/css" media="screen" />
