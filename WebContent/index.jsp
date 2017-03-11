@@ -15,7 +15,7 @@
 	<h1>Welcome in our web site</h1>
 	<br />
 	<h3>
-		To connect, please click on click <a href="connect.jsp">here</a>
+		To connect, please click on  click <a href="connect.jsp">here</a>
 	</h3>
 	<%@ include file="menu.jsp"%> 
 	<%@ include file="footer.jsp"%>
